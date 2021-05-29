@@ -5,6 +5,9 @@ Programa usando o pytube para baixar vídeos do YouTube
 Para instalar o pytube, rode o seguinte comando no seu terminal:
 `pip3 install pytube`
 
+### Baixe o arquivo 'DownloadYT.py'
+### Execute o arquivo
+
 ## Como o programa funciona
 1. Digite o link do vídeo. Ex.: https://www.youtube.com/watch?v=-rLt89HZ6DQ
 2. Digite o nome da pasta onde o vídeo será salvo </br>
