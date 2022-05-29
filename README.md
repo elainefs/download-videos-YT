@@ -1,17 +1,45 @@
-# download-videos-YT
-Programa usando o pytube para baixar vídeos do YouTube
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/70538729/170885181-28de882c-c37c-4d77-bdb2-ead68dc21b15.png" height="200"/>
+</h1>
 
-## Instalando o pytube
-Para instalar o pytube, rode o seguinte comando no seu terminal:
-`pip3 install pytube`
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+</div>
 
-### Baixe o arquivo 'DownloadYT.py'
-### Execute o arquivo
+## 📘 About
+Program using [pytube](https://pytube.io/en/latest/#) to download YouTube videos via CLI on **Linux**.
 
-## Como o programa funciona
-1. Digite o link do vídeo. Ex.: https://www.youtube.com/watch?v=-rLt89HZ6DQ
-2. Digite o nome da pasta onde o vídeo será salvo </br>
-Obs.:Se não for informado o caminho de diretórios(C:\Users\seuNome\Downloads), uma pasta com o nome que você digitou será criada dentro do diretório em que o programa está sendo executado
-4. O programa exibirá as informações do vídeo: Título, Número de views, Tamanho em segundos, Número de avaliações
-5. O vídeo começará a ser baixado
-6. Quando o download estiver concluído a mensagem 'Download completo!' aparecerá. 
+## ⚙️ Tools
+- [Linux](https://www.linux.org/pages/download/)
+- [Python 3](https://www.python.org/downloads/)
+- [Pytube](https://pytube.io/en/latest/)
+
+## 💻 Installing pytube
+To install pytube, run the following command in your terminal:
+```bash 
+$ pip3 install pytube
+```
+
+## ⬇️ Download the file
+
+[DownloadYT.py](https://github.com/elainefs/download-videos-YT/archive/refs/heads/main.zip)
+
+## 🎲 How use
+1. Open the terminal and navigate to the folder where the zip file downloaded in the previous step was saved
+2. Extract the file:
+  - On Linux run the command `$ unzip download-videos-YT-main.zip`
+3. Navigate to the folder that was extracted `$ cd download-videos-YT-main`
+4. To start the program, run the command `$ python3 DownloadYT.py`
+5. Enter the video link. Eg: https://www.youtube.com/watch?v=-rLt89HZ6DQ
+6. Enter the name of the folder where the video will be saved. Eg: Downloads</br>
+Note: A folder with the name you entered will be created inside the directory where the program is running
+7. The program will display the video information: Title, Number of Views, Size in seconds, Number of Ratings
+8. The video will start to download
+9. When the download is complete the message **'Download complete!'** will appear.
+
+## 📄 Licence
+This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/download-videos-YT/blob/main/LICENSE) file for more details.
+
+## Autor
+[Elaine Ferreira](https://github.com/elainefs)
