@@ -41,5 +41,6 @@ Note: A folder with the name you entered will be created inside the directory wh
 ## 📄 Licence
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/download-videos-YT/blob/main/LICENSE) file for more details.
 
-## Autor
+<hr>
+
 Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs)
