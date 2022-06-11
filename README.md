@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://user-images.githubusercontent.com/70538729/170885181-28de882c-c37c-4d77-bdb2-ead68dc21b15.png" height="200"/>
-</h1>
+</h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -42,4 +42,4 @@ Note: A folder with the name you entered will be created inside the directory wh
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/download-videos-YT/blob/main/LICENSE) file for more details.
 
 ## Autor
-[Elaine Ferreira](https://github.com/elainefs)
+Made with ❤️ by [Elaine Ferreira](https://github.com/elainefs)
