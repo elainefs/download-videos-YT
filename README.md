@@ -38,7 +38,7 @@ Note: A folder with the name you entered will be created inside the directory wh
 8. The video will start to download
 9. When the download is complete the message **'Download complete!'** will appear.
 
-## 📄 Licence
+## 📄 License
 This project is under the MIT license. See the [LICENSE](https://github.com/elainefs/download-videos-YT/blob/main/LICENSE) file for more details.
 
 <hr>
