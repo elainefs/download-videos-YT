@@ -10,7 +10,7 @@
 ## 📘 About
 Program using [pytube](https://pytube.io/en/latest/#) to download YouTube videos via CLI on **Linux**.
 
-## ⚙️ Tools
+## ⚒️ Tools
 - [Linux](https://www.linux.org/pages/download/)
 - [Python 3](https://www.python.org/downloads/)
 - [Pytube](https://pytube.io/en/latest/)
