@@ -30,7 +30,7 @@ $ pip3 install pytube
 2. Extract the file:
   - On Linux run the command `$ unzip download-videos-YT-main.zip`
 3. Navigate to the folder that was extracted `$ cd download-videos-YT-main`
-4. To start the program, run the command `$ python3 DownloadYT.py`
+4. To start the program, run the command `$ python3 downloadYT.py`
 5. Enter the video link. Eg: https://www.youtube.com/watch?v=-rLt89HZ6DQ
 6. Enter the name of the folder where the video will be saved. Eg: Downloads</br>
 Note: A folder with the name you entered will be created inside the directory where the program is running
