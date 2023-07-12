@@ -23,7 +23,7 @@ $ pip3 install pytube
 
 ## ⬇️ Download the file
 
-[DownloadYT.py](https://github.com/elainefs/download-videos-YT/archive/refs/heads/main.zip)
+[downloadYT.py](https://github.com/elainefs/download-videos-YT/archive/refs/heads/main.zip)
 
 ## 🎲 How use
 1. Open the terminal and navigate to the folder where the zip file downloaded in the previous step was saved
